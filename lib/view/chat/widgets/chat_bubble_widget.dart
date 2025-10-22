@@ -13,6 +13,7 @@ class ChatBubble extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Row(
+      crossAxisAlignment: CrossAxisAlignment.end,
       mainAxisAlignment: message.isUser ? MainAxisAlignment.end : MainAxisAlignment.start,
         children: [
           if (!message.isUser) ...[
