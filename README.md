@@ -51,3 +51,14 @@ Dark, minimal UI with glowing blue accent elements for a **futuristic holographi
 
 The **Jarvis AI** project follows the **MVVM (Model-View-ViewModel)** architecture with **GetX** for state management.  
 This structure ensures scalability, readability, and clean separation of concerns.
+
+---
+
+## 📱 App Mockup  
+
+<p align="center">
+  <img src="https://github.com/The-IK11/Jarvix-AI-Assistant/blob/main/Screenshot_1761157538.png" alt="Jarvis AI Mockup" width="80%">
+</p>
+
+> 🦾 *“I am Jarvis — your personal AI assistant. Powered by The IK11.”*
+
